@@ -47,7 +47,7 @@ figure_list:
     caption: "HKU Museum and Gallery"
   - id: "5_Fox"
     src: "figures/Dialogue/5_Fox.png"
-    caption: "Chak drawing on a beach in Ma On Shan"
+    caption: "Flower-eating Fox 愛吃花朵的狐狸 121.9 x 182.88 cm | 2018–19"
   - id: "6_Chakdrawing"
     src: "figures/Dialogue/6_Chakdrawing.png"
     caption: "Chak drawing on a beach in Ma On Shan"
@@ -62,7 +62,7 @@ figure_list:
     caption: "Mocking Bird Screaming from Amah Rock 牠站在望夫石上高聲吶喊 182.8 x 121.9 cm | 2019"
   - id: "10_Early_spring"
     src: "figures/Dialogue/10_Early_spring.png"
-    caption: "Early Spring早春  182.8 x 121.9 cm | 2019"
+    caption: "Early Spring 早春  182.8 x 121.9 cm | 2019"
   - id: "11_Mountain_chorus"
     src: "figures/Dialogue/11_Mountain_chorus.png"
     caption: "Mountain Chorus 山嶺之謳歌  182.8 x 243.8 cm | 2019"
@@ -71,7 +71,7 @@ figure_list:
     caption: "The Green Hill We Climbed 我們攀爬的青山 40 x 30 cm | 2019"
   - id: "Pick_up"
     src: "figures/Exhibition/Pick_up.png"
-    caption: "Chak outside his Fotan studio preparing to load art work (from left to right: )"
+    caption: "Chak outside his Fotan studio preparing to load art work with (from left to right: )"
   - id: "Installation_1"
     src: "figures/Exhibition/Installation_1.png"
     caption: ""
@@ -86,7 +86,7 @@ figure_list:
     caption: "Hanging *Kowloon + Hong Kong Greeting Little Tako*"
   - id: "Installation_6"
     src: "figures/Exhibition/Installation_6.png"
-    caption: "A recurring exhibition challenge is knowing when to edit the final object list. Apart from the artworks and captions, each gallery wall also needs space to breathe. We first tried double-hanging the works on paper, and then a 3 x 3 grid, but the end result felt congested, so we opted for a cleaner line. This particular configuration affords equal emphasis to the individual drawings and maintains the overall design balance."
+    caption: "A recurring exhibition challenge is knowing when to edit the final object list. Apart from the artworks and captions, each gallery wall also needs space to breathe. We first tried double-hanging the works on paper, and then a 3 x 3 grid, but the end result felt congested, so we ultimately opted for a cleaner line. This particular configuration affords equal emphasis to the individual drawings and maintains the overall balance."
   - id: "Installation_5"
     src: "figures/Exhibition/Installation_5.png"
     caption: ""

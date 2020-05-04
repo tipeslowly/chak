@@ -8,9 +8,9 @@ toc: false
 image: Chak_cover.png
 ---
 
-Chak’s exhibition *Landscapes and Other Natural Occurrences* was originally set to open in January 2020, but as with numerous other events, the COVID-19 pandemic kept UMAG's doors shut for the first quarter of the year. The show formally opened to the public on 16 May 2020, and is scheduled to run through 16 August 2020. Work in the exhibition ranges from large two-panel paintings on canvas to a selection of recent drawings. The accompanying [UMAG publication](https://hkupress.hku.hk/pro/1818.php) collects the majority of Chak's paintings and drawings from 2018 and 2019.
+Chak’s exhibition *Landscapes and Other Natural Occurrences* was originally set to open in January 2020, but as with numerous events, the COVID-19 pandemic kept UMAG's doors shut for the first quarter of the year. Formally opening to the public on 16 May 2020, the show is now scheduled to run through XX August 2020. Work in the exhibition ranges from large two-panel paintings on canvas to a selection of recent ink and watercolour drawings. The accompanying [UMAG publication](https://hkupress.hku.hk/pro/1818.php) collects the majority of Chak's paintings and drawings from 2018 and 2019.
 
-UMAG gratefully acknowledges the Hong Kong Arts Development Council for their support of this project.
+UMAG gratefully acknowledges the Hong Kong Arts Development Council for their support.
 
 <div class="credits">
   <div class="organiser">

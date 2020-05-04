@@ -14,7 +14,7 @@ Chak graduated from the Department of Fine Arts at the Chinese University of Hon
 
 {{< q-figure id="LKS_letter" >}}
 
-During his undergraduate years, Chak began to incorporate an impressive range of contemporary theories and materials into his work for which he received a number of prestigious awards, including honours from the Contemporary Hong Kong Art Biennial (Hong Kong Museum of Art, 1979) and Youth Art Now: Asia (Hong Kong Arts Centre, 1980).
+During his undergraduate years, Chak began to incorporate an impressive range of contemporary theories and materials into his work for which he received several prestigious awards, including honours from the Contemporary Hong Kong Art Biennial (Hong Kong Museum of Art, 1979) and Youth Art Now: Asia (Hong Kong Arts Centre, 1980).
 
 {{< q-figure id="Mak_Chak" >}}
 
