@@ -1,0 +1,121 @@
+/* .quire-cover .quire-page__content .container.is-fluid {
+    max-width: 1200px;
+    width: 1200px;
+} */
+
+.quire-cover__hero {
+  background-color: rgba(192,192,192);
+  background-image: none;
+}
+
+.quire-cover__overlay {
+  left: -40px;
+}
+
+.quire:not(.no-js) .quire__secondary.is-expanded {
+    width: calc(372px - 2em);
+}
+.quire:not(.no-js) .quire__secondary.is-expanded+.quire__primary {
+    -webkit-transform: translate3d(calc(-372px + 2em), 0, 0);
+    transform: translate3d(calc(-372px + 2em), 0, 0);
+}
+
+.credits {
+  display: flex;
+}
+.credits > div {
+  width: 50%;
+  padding: 20px;
+}
+
+.credits .organiser img {
+  height: 70px;
+  width: auto;
+  padding: 10px;
+}
+.credits .supporter img {
+  height: 100px;
+  width: auto;
+  padding: 10px;
+}
+
+
+#fig_7_Silk_script, #fig_8_Silk_script {
+  width: 50% !important;
+}
+
+.quire-page__content .container .content {
+    margin-top: 0px;
+}
+
+#site-menu  {
+  background-color: rgba(192,192,192);
+  background-image: url('../img/silk_poem_strand.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  border-left: 2px solid #000;
+}
+
+.quire__secondary a, .quire__secondary button, .quire__secondary .button {
+  background-color: transparent;
+}
+
+
+.quire-cover .quire-contributors-list {
+  float: left;
+  padding: 20px;
+  width: 50%;
+}
+.quire-cover .quire-contents-buttons {
+  clear: both;
+}
+.quire-cover .quire-contributor__pic {
+  width: 140px;
+}
+
+.quire-contributor__pic {
+  border-radius: 0;
+}
+
+.cover-colophon {
+    background-color: #ddd;
+    font-weight: 400;
+    padding-bottom: 1.5em;
+    padding-top: 1.5em;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+}
+.cover-colophon-inner {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 0.7em;
+}
+.colophon-text {
+    float: left;
+    margin-left: 1.4em;
+}
+.colophon-links {
+    padding: 1em 1em;
+}
+.colophon-logo {
+    float: right;
+    margin-right: 1.4em;
+    padding-top: 1.4em;
+}
+
+#exhibition_photos .quire-figure {
+  border: none;
+}
+
+
+/* .material-fullscreen {
+  display: none;
+}
+.material-fullscreen:after {
+  content: 'arrow_upward' !important;
+} */
