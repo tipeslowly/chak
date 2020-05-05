@@ -23,11 +23,11 @@ Chak: The individual brushstrokes are just physical markings that serve as ‘pr
 
 {{< q-figure-group grid="2" id="3_Coexistence, 4_Coexistence" >}}
 
-*One consistent element in your work is a specific form of contemplation; is this something you aspire to create for an audience?*
+*One consistent element in your work is a particular form of contemplation; is this something you aspire to create for an audience?*
 
 To be honest, I never really consider the audience. Painting for me has never involved an attempt to appease any third party, but instead to target a subject’s essence, to recreate its ‘being’. This is what seems most natural. In terms of the actual brushstrokes, within some schools of contemporary art, skill and technique have become subordinate to conceptual gimmicks. Based on his revolutionary feat of manipulating the ‘readymade’ into a form of self-expression, we often forget Duchamp’s foundational years as a highly accomplished Cubist painter. Numerous aspiring artists, influenced by his later innovations, have blindly stepped into the world under the false notion that they can create meaningful work without an appropriate level of craftsmanship.
 
-*Could you speak a bit more about your daily process and materials?*
+*Could you speak a bit about your daily process and materials?*
 
 Chak: I usually get up early, eat breakfast, spend a couple hours reading, go for a walk and then take care of chores. Some days I will spend several hours sketching in the countryside, or else drawing what I see out my studio window. If I’m out somewhere, I’ll take a picture of the scene before I leave, and then head back to my studio. I’m not looking for any inspiration, or thinking about anything in particular when I sketch. If one of the drawings eventually becomes the basis for a painting, it’s then that I’ll consider additional layers of meaning—aesthetic or social. I then work on my paintings in the afternoon light, and in the evening I concentrate on unfinished sketches and setting out a plan for the next day.
 
