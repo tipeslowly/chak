@@ -18,5 +18,11 @@ Rae Hong is a Research Assistant at UMAG. She graduated with an MA in Museum Stu
 #### Kikki Lam
 Kikki Lam is a Research Assistant in the Curatorial Department at UMAG. She received her B.A. and M.Phil. in Anthropology from The Chinese University of Hong Kong. Her current research focuses on Chinese silk textiles and Museum Anthropology, and she has been the translator of several exhibition catalogues related to East Asian art and culture.
 
+#### Haven Lo
+Haven Lo XXX
+
 #### Christopher Mattison
 Mattison’s primary line of research centres around the relationship of text and image in the museum environment. Apart from his curatorial work, Mattison is UMAG’s publisher and series editor for a range of digital programming being developed in conjunction with the Getty’s Arches and Quire platforms.
+
+#### Wyatt Mattison
+Wyatt is an IB student at Renaissance College in Hong Kong. His illustrations also appear in a developing project at the Folger Shakespeare Library in Washington DC, and on a number of tables and walls at home.

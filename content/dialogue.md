@@ -1,5 +1,5 @@
 ---
-label: 二
+label: 2
 title: In Dialogue
 subtitle:
 weight: 40
@@ -10,7 +10,7 @@ abstract:
 
 Text in this chapter is taken from an ongoing conversation between Chak and curator Christopher Mattison. Some material was published, in slightly different format, in the UMAG catalogue *Landscapes and Other Natural Occurrences*. The excerpts here focus primarily on Chak’s experimentation with various mediums and types of brushwork, which together form the basis for his concept of ‘Chinese Painting’.
 
-Completed between 2018-19, all of the paintings are oil and acrylic on canvas and the drawings are watercolour, gouache and ink on paper.
+Completed between 2018-2019, all of the paintings are oil and acrylic on canvas and the drawings are watercolour, gouache and ink on paper.
 
 
 {{< q-figure id="1_Brotherhood" >}}

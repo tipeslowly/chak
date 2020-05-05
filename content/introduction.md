@@ -1,5 +1,5 @@
 ---
-label: 一
+label: 1
 title: Introduction
 subtitle:
 weight: 30
