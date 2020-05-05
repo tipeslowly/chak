@@ -1,7 +1,7 @@
 figure_list:
   - id: "Chak_cover"
     src: figures/Chak_cover.png
-    caption: "Out the Old Garden Window故園窗外32 x 41 cm | 2017–19"
+    caption: "Out the Old Garden Window 故園窗外 32 x 41 cm | 2017–19"
     credit: ""
   - id: "HKADC"
     src: figures/hkadc_logo.png
@@ -13,15 +13,15 @@ figure_list:
     credit: ""
   - id: "LKS_letter"
     src: figures/Introduction/LKS_letter.png
-    caption: "Letter to Chak from Liu Kuo-song"
+    caption: "Letter to Chak from Liu Kuo-song, 1982"
     credit: ""
   - id: "Mak_Chak"
     src: figures/Introduction/Mak_Chak.png
-    caption: "Hong Kong sculptor Antonio Mak with Chak at his graduation from CUHK"
+    caption: "Hong Kong sculptor Antonio Mak with Chak at his CUHK graduation, 1981"
     credit: ""
   - id: "Chak_Frog_King"
     src: figures/Introduction/Chak_Frog_King.png
-    caption: "Chak and the Frog King at the soft opening of the renovated Hong Kong Museum of Art"
+    caption: "Chak and the Frog King at the soft opening of the renovated Hong Kong Museum of Art, 2019"
     credit: ""
   - id: "1_Brotherhood"
     src: figures/Dialogue/1_Brotherhood.png
