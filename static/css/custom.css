@@ -7,10 +7,12 @@
   background-color: rgba(192,192,192);
   background-image: none;
 }
-
-.quire-cover__overlay {
-  left: -40px;
+.quire-cover__hero-body.hero-body .container {
+  width: 380px;
 }
+/* .quire-cover__overlay {
+  left: -40px;
+} */
 .quire-cover .quire-page__content {
     padding-bottom: 40px;
 }
