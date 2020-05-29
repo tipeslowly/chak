@@ -17,11 +17,11 @@ figure_list:
     credit: ""
   - id: "Mak_Chak"
     src: figures/Introduction/Mak_Chak.png
-    caption: "Hong Kong sculptor Antonio Mak with Chak at his CUHK graduation, 1981"
+    caption: "Hong Kong sculptor [Antonio Mak](https://finearts.hku.hk/hkaa/revamp2011/artist_view.php?artist_id=043) with Chak at his CUHK graduation, 1981"
     credit: ""
   - id: "Chak_Frog_King"
     src: figures/Introduction/Chak_Frog_King.png
-    caption: "Chak and the Frog King at the soft opening of the renovated Hong Kong Museum of Art, 2019"
+    caption: "Chak and the [Frog King](https://theculturetrip.com/asia/china/hong-kong/articles/who-is-hong-kongs-eccentric-frog-king/) at the soft opening of the renovated Hong Kong Museum of Art, 2019"
     credit: ""
   - id: "1_Brotherhood"
     src: figures/Dialogue/1_Brotherhood.png
@@ -86,7 +86,7 @@ figure_list:
     caption: "Hanging *Kowloon + Hong Kong Greeting Little Tako*"
   - id: "Installation_6"
     src: "figures/Exhibition/Installation_6.png"
-    caption: "A recurring exhibition challenge is knowing when to edit down the final object list. Apart from the artworks and captions, each gallery wall needs space to breathe. We first tried double-hanging the works on paper, and then in a 3x3 grid, but the end result felt congested, so we ultimately opted for a cleaner line. This particular configuration affords equal emphasis to the individual drawings and maintains a more equal balance between the works."
+    caption: "A recurring exhibition challenge is knowing how to edit down the final object list. Apart from the artworks and captions, each gallery wall needs a certain amount of space to breathe. We first tried double-hanging the works on paper, and then hanging them in a 3 x 3 grid, but the end result felt congested, so we ultimately opted for a cleaner line. This particular configuration affords equal emphasis to the individual drawings and maintains a more equal balance throughout the gallery."
   - id: "Installation_5"
     src: "figures/Exhibition/Installation_5.png"
     caption: ""
@@ -95,6 +95,6 @@ figure_list:
     caption: "Preparing to install work in the Fung Ping Shan gallery"
   - id: "Chak_interview"
     src: "figures/Exhibition/Chak_interview.png"
-    caption: "Chak being interviewed by HK Cable TV"
+    caption: "Chak being interviewed by HK Cable TV. Access the full interview with [here](https://www.facebook.com/closetoculture/videos/211305530118689/?eid=ARCzYOL84aKC__5iVmIhi_XN65XSynSiuf0wheQQnVIN_jtkXF8erp-t9lSDAusdjQBx_sHGECJicHIC)"
   - id: "Chak_author"
     src: "contributors/Chak_author.png"
